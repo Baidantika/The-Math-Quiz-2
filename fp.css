@@ -1,0 +1,10 @@
+body{
+    background-image:url("math quiz.jpg");
+    background-position: center;
+    background-size: cover;
+    
+}
+#btn-nextpage{
+    font-size: 30px;
+    margin-top: 200px;
+}
